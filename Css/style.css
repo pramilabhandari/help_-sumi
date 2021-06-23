@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.hero{
+  height: 100vh;
+  
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0..6)),url(web.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+  position: relative;
+}
+.nav-bar{
+  display: flex;
+  padding: 40px 120px;
+
+}
+.nav-logo img{
+  width: 120px;
+
+}
